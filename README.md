@@ -55,4 +55,4 @@ Changing artist name to 'Karthik'
  
 Type your song for Lyrics :
 
--Type song name then GUI will provide the lyrics of that particular singer.
+- Type song name then GUI will provide the lyrics from the song.
