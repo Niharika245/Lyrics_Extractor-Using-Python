@@ -33,9 +33,9 @@ Steps to Run the project:
 
 Some example for extracting lyrics from song.
 
-  Enter Artist Name : karthik
+ - Enter Artist Name : karthik
   
-  Searching for songs by karthik...
+ - Searching for songs by karthik...
 
 Changing artist name to 'Karthik'
 
