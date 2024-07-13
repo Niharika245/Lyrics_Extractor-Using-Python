@@ -6,6 +6,7 @@ This project aims to provide an easy-to-use tool for retrieving song lyrics from
 
 Features
  . Fetch lyrics from multiple online sources
+ 
  . Support for different music genres and languages
  . Error handling and logging for failed attempts
  . Option to save lyrics to a file
